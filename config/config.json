@@ -1,0 +1,25 @@
+{
+    "development": {
+      "username": "root",
+      "password": "wjdtjdgh123",
+      "database": "travel_db",
+      "host": "localhost",
+      "dialect": "mysql"
+    },
+    "test": {
+      "username": "root",
+      "password": "wjdtjdgh123",
+      "database": "travel_db",
+      "host": "localhost",
+      "dialect": "mysql"
+    },
+    "production": {
+      "username": "root",
+      "password": "wjdtjdgh123",
+      "database": "travel_db",
+      "host": "localhost",
+      "dialect": "mysql"
+    },
+    "salt" : "asdkjlascnklasq2319fsjaks1asd21"
+    
+    }
